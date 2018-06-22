@@ -49,7 +49,13 @@ function Header(props) {
               </a>
             </IconButton>
             <IconButton className={classes.button}>
-              <LinkedIn />
+              <a
+                href="https://linkedin.com/in/stephen-broadhurst-349145166"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <LinkedIn />{' '}
+              </a>
             </IconButton>
           </div>
         </Toolbar>

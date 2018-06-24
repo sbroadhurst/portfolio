@@ -17,6 +17,10 @@ const styles = {
   },
   toolbarButtons: {
     marginLeft: 'auto'
+  },
+  toolbar: {
+    //position: 'fixed !important',
+    position: 'static'
   }
 }
 
@@ -24,7 +28,7 @@ function Header(props) {
   const { classes } = props
   return (
     <div className={classes.root}>
-      <AppBar position="static" color="default">
+      <AppBar style={styles.toolbar} color="default">
         <Toolbar>
           <Button href="/" className={classes.button}>
             Stephen Broadhurst

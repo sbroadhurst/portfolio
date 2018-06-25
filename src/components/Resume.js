@@ -35,7 +35,7 @@ class Resume extends React.Component {
             </p>
           </ExpansionPanelSummary>
           <ExpansionPanelDetails>
-            <img src={resumeImage} alt="resume image" />
+            <img src={resumeImage} alt="resume" />
           </ExpansionPanelDetails>
         </ExpansionPanel>
       </div>

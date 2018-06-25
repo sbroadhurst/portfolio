@@ -11,12 +11,6 @@ class AboutMe extends React.Component {
               <h1 className="mt-5 mb-3"> Stephen Broadhurst </h1>
               <h5> Junior Javascript Developer </h5>
             </div>
-            <div className="overlay-nav m-auto md-flex flex-row flex-wrap">
-              {/* <a href='#work'> button </a>
-       <a href='#work'> button </a>
-       <a href='#work'> button </a> */}
-              buttons
-            </div>
           </div>
         </section>
         <section className="section-text" id="intro">

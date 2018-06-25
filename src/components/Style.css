@@ -82,6 +82,20 @@ h5 {
   padding-bottom: 4rem;
 }
 
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.m-2 {
+  margin: 0.5rem;
+}
+
+.btn {
+  padding: 0.25rem 0.75rem;
+  font-weight: 300;
+  font-size: 0.87rem;
+}
+
 /* row {
   display: flex;
   flex-wrap: wrap;

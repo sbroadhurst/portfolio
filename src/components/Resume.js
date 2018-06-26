@@ -25,7 +25,7 @@ class Resume extends React.Component {
             <p style={style.heading}>
               View Resume or{' '}
               <a
-                href="https://drive.google.com/file/d/1ZH6tNfHd_k1QpSWuDEsf2-i9ITTv2a7L/view?usp=sharing"
+                href="https://drive.google.com/file/d/1Xw83UH5569oX1lVeeCbtlVukQDsRaqlO/view?"
                 target="_blank"
                 rel="noopener noreferrer"
               >

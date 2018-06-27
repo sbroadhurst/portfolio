@@ -37,9 +37,19 @@ class Contact extends React.Component {
               LinkedIn
             </div>
             <div>
-              <Email /> stepbro31@gmail.com
+              <IconButton>
+                <a href="mailto:stepbro31@gmail.com" data-rel="external">
+                  <Email />{' '}
+                </a>{' '}
+              </IconButton>
+              stepbro31@gmail.com
             </div>
-            <Phone /> (407) 416 - 3579
+            <IconButton>
+              <a href="tel:1231231234" data-rel="external">
+                <Phone />
+              </a>
+            </IconButton>
+            (407) 416-3579
           </div>
         </div>
       </section>

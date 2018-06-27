@@ -9,7 +9,7 @@ class AboutMe extends React.Component {
           <div className="container pt-5">
             <div className="overlay-content text-center">
               <h1 className="mt-5 mb-3"> Stephen Broadhurst </h1>
-              <h5> Junior Javascript Developer </h5>
+              <h5> Javascript / Web App Developer </h5>
             </div>
           </div>
         </section>

@@ -20,17 +20,17 @@ class Work extends React.Component {
           <article className="main">
             <div className="body">
               <h1> Movie Database Viewer </h1>
-              This website uses the{' '}
               <a
-                href="https://developers.themoviedb.org/4/getting-started/authorization"
+                href="http://movies.sbroadhurst.net/#/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Movie DB{' '}
+                Click here{' '}
               </a>{' '}
-              to display information about movies and TV shows. You can also
-              view the trailers, search by name, and find similar movies or
-              shows. You can also find shows and movies with the same genres.
+              to see my website that displays information about movies and TV
+              shows. You can also view the trailers, search by name, and find
+              similar movies or shows. You can also find shows and movies with
+              the same genres.
             </div>
           </article>
           <aside className="aside aside-1">
@@ -53,20 +53,19 @@ class Work extends React.Component {
           <article className="main">
             <div className="body">
               <h1> Marvel Comics Viewer </h1>
-              This website uses the{' '}
               <a
-                href="https://developer.marvel.com/"
+                href="http://marvel.sbroadhurst.net/#/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Marvel Database{' '}
+                Click here
               </a>{' '}
-              to display a list of popular Marvel heros, villians, and heroines.
-              Each one shows information on that character including a brief
-              summary, a image, and a list of their recent comic book
-              appearances (if available). You can also view a list of recent
-              comics and check their information including the summary, release
-              date, and pricing information.
+              to see my website which displays a list of popular Marvel heros,
+              villians, and heroines. Each one shows information on that
+              character including a brief summary, a image, and a list of their
+              recent comic book appearances (if available). You can also view a
+              list of recent comics and check their information including the
+              summary, release date, and pricing information.
             </div>
           </article>
           <aside className="aside aside-1">
@@ -89,13 +88,12 @@ class Work extends React.Component {
           <article className="main">
             <div className="body">
               <h1> Pokemon TCG Viewer </h1>
-              This website uses the{' '}
               <a
-                href="https://docs.pokemontcg.io/"
+                href="http://pokemon.sbroadhurst.net/#/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Pokemon TCG database
+                Click here
               </a>{' '}
               to search for pokemon cards and view the information on them
               including the attacks, name, HP and legality of the card. You can

@@ -81,7 +81,7 @@ class Work extends React.Component {
           <article className="main">
             <div className="body">
               <h1> Breakout Game </h1>
-              <a href="http://pokemon.sbroadhurst.net/#/" target="_blank" rel="noopener noreferrer">
+              <a href="http://breakout.sbroadhurst.net/#/" target="_blank" rel="noopener noreferrer">
                 Click here
               </a>{' '}
               to play a simple game of the Breakout. This game features a ball, paddle, and bricks. If you hit the

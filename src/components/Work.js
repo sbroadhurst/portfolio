@@ -3,7 +3,7 @@ import Button from '@material-ui/core/Button'
 import movie from '../assets/proj-movie.png'
 import pokemon from '../assets/proj-pokemon.png'
 import marvel from '../assets/proj-marvel.png'
-import breakout from '../assets/breakout.png'
+import breakout2 from '../assets/breakout2.png'
 import './FlexCss.css'
 
 const style = {
@@ -93,7 +93,7 @@ class Work extends React.Component {
           <aside className="aside aside-1">
             <Button type="contained">
               <a href="http://breakout.sbroadhurst.net" target="_blank" rel="noopener noreferrer">
-                <img src={breakout} alt="project-breakout" style={style.projectImage} />
+                <img src={breakout2} alt="project-breakout" style={style.projectImage} />
               </a>
             </Button>
           </aside>

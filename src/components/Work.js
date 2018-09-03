@@ -92,7 +92,7 @@ class Work extends React.Component {
           </article>
           <aside className="aside aside-1">
             <Button type="contained">
-              <a href="http://breakout.sbroadhurst.net" target="_blank" rel="noopener noreferrer">
+              <a href="http://breakout.sbroadhurst.net/client/" target="_blank" rel="noopener noreferrer">
                 <img src={breakout2} alt="project-breakout" style={style.projectImage} />
               </a>
             </Button>

@@ -89,7 +89,7 @@ class Work extends React.Component {
               edge of the screen you lose the game. Everytime you destroy a brick your score increases by one. There are
               sound effects when the ball hits the paddle and when the ball hits a brick. When you destroy all the
               bricks you win. Made in pure Javascript. Will be able to upload scores to Firebase and view the
-              leaderboard when te game ends.
+              leaderboard when the game ends.
             </div>
           </article>
           <aside className="aside aside-1">
@@ -104,18 +104,18 @@ class Work extends React.Component {
           <article className="main">
             <div className="body">
               <h1> Snake Game </h1>
-              <a href="http://breakout.sbroadhurst.net/client/" target="_blank" rel="noopener noreferrer">
+              <a href="http://snake.sbroadhurst.net" target="_blank" rel="noopener noreferrer">
                 Click here
               </a>{' '}
               to play a simple game of Snake. This game features a grid system where the goal is to get as long as
               possible without losing. If you touch your tail or hit the wall the game ends. Made in pure Javascript.
-              Will be able to upload scores to Firebase and view the leaderboard when te game ends.
+              Will be able to upload scores to Firebase and view the leaderboard when the game ends.
             </div>
           </article>
           <aside className="aside aside-1">
             <Button type="contained">
-              <a href="http://breakout.sbroadhurst.net/client/" target="_blank" rel="noopener noreferrer">
-                <img src={snake} alt="project-breakout" style={style.projectImage} />
+              <a href="http://snake.sbroadhurst.net" target="_blank" rel="noopener noreferrer">
+                <img src={snake} alt="project-snake" style={style.projectImage} />
               </a>
             </Button>
           </aside>

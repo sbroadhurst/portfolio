@@ -5,6 +5,7 @@ import pokemon from '../assets/proj-pokemon.png'
 import marvel from '../assets/proj-marvel.png'
 import breakout2 from '../assets/breakout2.png'
 import snake from '../assets/snake-game.png'
+import arrows from '../assets/arrowsGame.png'
 import './FlexCss.css'
 
 const style = {
@@ -116,6 +117,27 @@ class Work extends React.Component {
             <Button type="contained">
               <a href="http://snake.sbroadhurst.net" target="_blank" rel="noopener noreferrer">
                 <img src={snake} alt="project-snake" style={style.projectImage} />
+              </a>
+            </Button>
+          </aside>
+        </div>
+        <div className="wrapper">
+          <article className="main">
+            <div className="body">
+              <h1> Musical Arrows Game </h1>
+              <a href="http://arrows.sbroadhurst.net" target="_blank" rel="noopener noreferrer">
+                Click here
+              </a>{' '}
+              to play a game that tests your reflexs. Select a diffuculty at the start menu then be prepared to press
+              the corresponding arrow keys in time. There is music playing the background, with different songs for each
+              diffculty. Select the all diffculty to run through all the songs. Upload and view highscores via the
+              leaderboard.
+            </div>
+          </article>
+          <aside className="aside aside-1">
+            <Button type="contained">
+              <a href="http://arrows.sbroadhurst.net" target="_blank" rel="noopener noreferrer">
+                <img src={arrows} alt="project-arrows" style={style.projectImage} />
               </a>
             </Button>
           </aside>

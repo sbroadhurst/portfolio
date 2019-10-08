@@ -3,7 +3,7 @@ import ExpansionPanel from '@material-ui/core/ExpansionPanel'
 import ExpansionPanelSummary from '@material-ui/core/ExpansionPanelSummary'
 import ExpansionPanelDetails from '@material-ui/core/ExpansionPanelDetails'
 import ExpandMore from '../assets/ExpandMore'
-import resumeImage from '../assets/resumeImage.jpg'
+import resumeImage from '../assets/resumeImage2.png'
 import './FlexCss.css'
 
 const style = {
@@ -25,10 +25,9 @@ class Resume extends React.Component {
             <p style={style.heading}>
               View Resume or{' '}
               <a
-                href="https://drive.google.com/file/d/1Xw83UH5569oX1lVeeCbtlVukQDsRaqlO/view?"
+                href="https://drive.google.com/file/d/1DgVtDS8dByMLhFwNX0vBHRB80EKXsQTT/view?usp=sharing"
                 target="_blank"
-                rel="noopener noreferrer"
-              >
+                rel="noopener noreferrer">
                 Click Here{' '}
               </a>{' '}
               to View and Download
